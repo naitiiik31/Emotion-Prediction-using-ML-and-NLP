@@ -78,7 +78,7 @@ The project is created for academic and learning purposes and helps understand h
 I am very happy with my exam results
 
 ## ✅ Sample Output
-Predicted Emotion: Happy
+Predicted Emotion: Joy
 
 ---
 
