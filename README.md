@@ -1,4 +1,4 @@
-# Emotion-Prediction-using-ML-and-NLP
+# Emotion Prediction using ML & NLP
 
 ## 📌 Project Overview
 This project is based on Emotion Prediction from text using Machine Learning and Natural Language Processing (NLP).
